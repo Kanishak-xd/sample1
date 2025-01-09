@@ -1,4 +1,4 @@
-# This function adds two numbers
+# multiplication of two numbers
 def multiply(x, y):
     return x * y
 

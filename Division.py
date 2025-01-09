@@ -1,4 +1,4 @@
-# This function adds two numbers
+# Division of two numbers
 def divide(x, y):
     if y == 0:
         return "no wrong, cant be zero man."
